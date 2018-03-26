@@ -1,0 +1,26 @@
+{
+  "name": "basic-grunt-starter",
+  "version": "1.0.0",
+  "description": "A very basic Grunt setup to start a project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsguerra/basic-grunt-starter.git"
+  },
+  "keywords": [],
+  "author": "Jose Guerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsguerra/basic-grunt-starter/issues"
+  },
+  "homepage": "https://github.com/jsguerra/basic-grunt-starter#readme",
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
